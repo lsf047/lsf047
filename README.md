@@ -7,12 +7,12 @@ Sou estudante de Ciência da Computação e estou construindo minha base em prog
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=lsf047&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=lsf047&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lsf047&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lsf047&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
 [![](https://komarev.com/ghpvc/?username=lsf047&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
