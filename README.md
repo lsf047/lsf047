@@ -13,6 +13,5 @@ Sou estudante de Ciência da Computação e estou construindo minha base em prog
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lsf047&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
-[![](https://komarev.com/ghpvc/?username=lsf047&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
