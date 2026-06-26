@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 Sou estudante de Ciência da Computação e estou construindo minha base em programação, lógica e desenvolvimento de sistemas.<br><br>Atualmente estudo C++ na faculdade e estou evoluindo com Python, Git, GitHub e fundamentos de dados. Tenho interesse em automação de processos, engenharia de dados e criação de sistemas internos que resolvam problemas reais.<br><br>Também venho explorando ferramentas como ChatGPT e Codex para apoiar meus estudos, revisar código, organizar projetos e acelerar meu aprendizado de forma prática.<br><br>Meu foco agora é aprender bem os fundamentos, praticar com projetos pequenos e documentar minha evolução por aqui.
 
 
